@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Bootstrap-Accordion/static/css/main.eb0d0ed5.css",
+    "main.js": "/React-Bootstrap-Accordion/static/js/main.a02e11d5.js",
+    "static/js/453.bf170949.chunk.js": "/React-Bootstrap-Accordion/static/js/453.bf170949.chunk.js",
+    "index.html": "/React-Bootstrap-Accordion/index.html",
+    "main.eb0d0ed5.css.map": "/React-Bootstrap-Accordion/static/css/main.eb0d0ed5.css.map",
+    "main.a02e11d5.js.map": "/React-Bootstrap-Accordion/static/js/main.a02e11d5.js.map",
+    "453.bf170949.chunk.js.map": "/React-Bootstrap-Accordion/static/js/453.bf170949.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb0d0ed5.css",
+    "static/js/main.a02e11d5.js"
+  ]
+}
